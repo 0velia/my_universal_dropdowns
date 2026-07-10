@@ -1,5 +1,7 @@
 # 🎭 ComfyUI Dynamic Dropdowns & Assistant
 
+![ComfyUI Dynamic Dropdowns UI Cover](assets/cover.png)
+
 A self-contained, high-efficiency custom node system and Windows desktop companion app for ComfyUI. This tool eliminates canvas clutter by consolidating multiple text attribute dropdowns (e.g., hair lengths, colors, styles, outfits, lighting) into a single, cohesive comma-separated output block—serving it simultaneously as a raw string and an encoded conditioning prompt.
 
 ---
