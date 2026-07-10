@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "name": "ComfyUI-Dynamic-Dropdowns",
+    "description": "Consolidates multiple dynamic text attribute dropdowns into a single string and CLIP conditioning block.",
+    "author": "0velia",
+    "project_url": "https://github.com/0velia/ComfyUI-Dynamic-Dropdowns"
+}
