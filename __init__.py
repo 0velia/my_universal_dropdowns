@@ -1,32 +1,23 @@
 import os
 
-# Define the local assets path matching our self-contained structure
 NODE_DIR = os.path.dirname(os.path.abspath(__file__))
 LISTS_DIR = os.path.join(NODE_DIR, "lists")
 
 class ComfyUIDynamicDropdownsPlaceholder:
     @classmethod
     def INPUT_TYPES(cls):
-        # Fallback values if the user hasn't populated their text files yet
         styles = ["Amateur Candid", "Studio Cinematic", "Vintage Film"]
         lighting = ["Soft Natural", "Harsh Neon", "Golden Hour"]
 
-        # Dynamically load from files if they exist
-        style_path = os.path.join(LISTS_DIR, "demo_style.txt")
-        if os.path.exists(style_path):
-            with open(style_path, "r", encoding="utf-8") as f:
-                styles = [line.strip() for line in f if line.strip()]
-
-        lighting_path = os.path.join(LISTS_DIR, "demo_lighting.txt")
-        if os.path.exists(lighting_path):
-            with open(lighting_path, "r", encoding="utf-8") as f:
-                lighting = [line.strip() for line in f if line.strip()]
-
         return {
             "required": {
-                "clip": ("CLIP",),
                 "demo_style": (styles,),
                 "demo_lighting": (lighting,),
+            },
+            # Moving both CLIP and the daisy-chain string input to the optional block
+            "optional": {
+                "input_string": ("STRING", {"forceInput": True}),
+                "clip": ("CLIP",),
             }
         }
 
@@ -35,15 +26,30 @@ class ComfyUIDynamicDropdownsPlaceholder:
     FUNCTION = "process_prompt"
     CATEGORY = "Custom Selection"
 
-    def process_prompt(self, clip, demo_style, demo_lighting):
-        # Concatenate the dropdown choices into a raw comma-separated string
-        clean_choices = [str(demo_style).strip(), str(demo_lighting).strip()]
+    def process_prompt(self, demo_style, demo_lighting, input_string="", clip=None):
+        # 1. Initialize our array of prompt segments
+        clean_choices = []
+        
+        # 2. If a previous node is connected, inject its text first
+        if input_string and str(input_string).strip():
+            clean_choices.append(str(input_string).strip())
+            
+        # 3. Append the current dropdown choices
+        if demo_style:
+            clean_choices.append(str(demo_style).strip())
+        if demo_lighting:
+            clean_choices.append(str(demo_lighting).strip())
+
+        # 4. Join everything with a clean single comma, filtering out empty entries
         final_prompt = ", ".join([c for c in clean_choices if c])
 
-        # Core execution logic tokenizing the text directly into CLIP conditioning data
-        tokens = clip.tokenize(final_prompt)
-        cond, pooled = clip.encode_from_tokens(tokens, return_pooled=True)
-        conditioning_output = [[cond, {"pooled_output": pooled}]]
+        # 5. Handle the optional CLIP conditioning encoding
+        if clip is not None:
+            tokens = clip.tokenize(final_prompt)
+            cond, pooled = clip.encode_from_tokens(tokens, return_pooled=True)
+            conditioning_output = [[cond, {"pooled_output": pooled}]]
+        else:
+            conditioning_output = None
 
         return (final_prompt, conditioning_output)
 
