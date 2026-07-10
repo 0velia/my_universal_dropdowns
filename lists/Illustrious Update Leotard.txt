@@ -1,0 +1,67 @@
+Vision/Clothing-L/Leotard-Random:
+    - "(__Vision/Clothing-L/Leotard-material__leotard,__Vision/Clothing-L/Leotard__,__Vision/Clothing-L/Leotard-colors__) "
+    - "(leotard,__Vision/Clothing-L/Leotard__,__Vision/Clothing-L/Leotard-colors__{,__Vision/Clothing-L/Leotard-cutout__||}) "    
+Vision/Clothing-L/Leotard:
+    - backless_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - breastless_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - cross-laced_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - frilled_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - gradient_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - highleg_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - impossible_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - open_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - open-bust_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - print_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}{|,__Vision/Clothing-L/Leotard-Print__}
+    - ribbed_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - side-tie_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - sleeved_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - strapless_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - thong_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - torn_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - turtleneck_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - two-tone_leotard{|,sleeveless_leotard|,long_sleeves_leotard|,short_sleeves_leotard}
+    - zipper_leotard{|,sleeveless|,long_sleeves|,short_sleeves}
+Vision/Clothing-L/Leotard-Colors:
+    - Black_leotard
+    - Blue_leotard
+    - Brown_leotard
+    - Green_leotard
+    - Grey_leotard
+    - Orange_leotard
+    - Pink_leotard
+    - Purple_leotard
+    - Red_leotard
+    - White_leotard
+    - Yellow_leotard
+    - Multicolored_leotard
+    - aqua_leotard
+    - gold_leotard
+    - see-through_leotard
+Vision/Clothing-L/Leotard-Print:
+    - two-tone_Leotard
+    - plaid_Leotard
+    - polka_dot_Leotard
+    - floral-print_Leotard
+    - striped_Leotard
+    - vertical-striped_Leotard
+    - camouflage_Leotard
+Vision/Clothing-L/Leotard-cutout:
+    - underboob_cutout
+    - navel_cutout
+    - stomach_cutout
+    - back_cutout
+    - cutout_above_navel
+    - cleavage_cutout
+    - crotch_cutout
+    - side_cutout
+    - ass_cutout
+Vision/Clothing-L/Leotard-material:
+    - spandex_
+    - latex_
+    - neoprene 
+    - sheer_
+    - lycra_
+    - rubber_
+    - shiny_
+    - mesh_
+    - ribbed_

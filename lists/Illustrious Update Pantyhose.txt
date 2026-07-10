@@ -1,0 +1,47 @@
+Vision/Clothing-L/pantyhose-Random:
+    - "tights,__Vision/Clothing-L/pantyhose-material__,__Vision/Clothing-L/pantyhose__,__Vision/Clothing-L/pantyhose-Colors__ {,__Vision/Clothing-L/pantyhose-Print__||}"
+    - "tights,__Vision/Clothing-L/pantyhose-material__,__Vision/Clothing-L/pantyhose__,__Vision/Clothing-L/pantyhose-Print__"
+    - "tights,__Vision/Clothing-L/pantyhose-material__,__Vision/Clothing-L/pantyhose__,__Vision/Clothing-L/pantyhose-Colors__" 
+Vision/Clothing-L/pantyhose:
+    - lowleg_pantyhose
+    - print_pantyhose    
+    - mismatched_legwear pantyhose
+    - thighband_pantyhose
+    - pantyhose
+Vision/Clothing-L/pantyhose-Colors:
+    - aqua_pantyhose
+    - black_pantyhose
+    - blue_pantyhose
+    - brown_pantyhose
+    - green_pantyhose
+    - grey_pantyhose
+    - orange_pantyhose
+    - pink_pantyhose
+    - purple_pantyhose
+    - red_pantyhose
+    - white_pantyhose
+    - yellow_pantyhose
+    - Multicolored_pantyhose
+Vision/Clothing-L/pantyhose-Print:
+    - argyle_legwear pantyhose
+    - lace_legwear pantyhose
+    - polka_dot_legwear pantyhose
+    - see-through_legwear pantyhose
+    - striped pantyhose
+    - vertical-striped pantyhose
+    - two-tone_pantyhose
+    - plaid_pantyhose
+    - floral-print_pantyhose
+    - camouflage_pantyhose
+Vision/Clothing-L/pantyhose-material:
+    - spandex_tights
+    - latex_tights
+    - lycra_tights
+    - shiny_tights
+    - mesh_tights
+    - ribbed_tights
+    - Opaque_tights
+    - Sheer_tights
+    - Soft_tights
+    - Matte_tights
+    - see-through_tights

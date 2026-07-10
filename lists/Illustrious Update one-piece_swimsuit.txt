@@ -1,0 +1,65 @@
+Vision/Clothing-L/1P-swimsuit-Random:
+    - "{__Vision/Clothing-L/1P-swimsuit-material__|}__Vision/Clothing-L/1P-swimsuit__,__Vision/Clothing-L/1P-swimsuit-colors__ {|, __Vision/Clothing-L/1P-swimsuit-Print__|}, {|__Vision/Clothing-L/1P-swimsuit-cutout__|}  "
+Vision/Clothing-L/1P-swimsuit:
+    - one-piece_swimsuit,(casual_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(competition_swimsuit:1.2)
+    - one-piece_swimsuit,(cross-laced_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(double_flare_skirt_one-piece:1.2)
+    - one-piece_swimsuit,(frilled_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(front_zipper_swimsuit:1.2)
+    - one-piece_swimsuit,(highleg_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(off-shoulder_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(sailor_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(school_swimsuit:1.2)
+    - one-piece_swimsuit,(see-through_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(side-tie_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(single-shoulder_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(strapless_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(turtleneck_one-piece_swimsuit:1.2)
+    - one-piece_swimsuit,(competition_swimsuit:1.2),racerback
+    - one-piece_swimsuit,(one-piece_thong,racerback:1.2)
+    - one-piece_swimsuit,(slingshot_swimsuit:1.2)
+    - one-piece_swimsuit,(backless_one-piece_swimsuit:1.2),(halterneck:1.1)
+    - one-piece_swimsuit,(backless_one-piece_swimsuit:1.2),(criss-cross_halter)
+Vision/Clothing-L/1P-swimsuit-colors:
+    - aqua_one-piece_swimsuit
+    - black_one-piece_swimsuit
+    - blue_one-piece_swimsuit
+    - brown_one-piece_swimsuit
+    - green_one-piece_swimsuit
+    - grey_one-piece_swimsuit
+    - orange_one-piece_swimsuit
+    - pink_one-piece_swimsuit
+    - purple_one-piece_swimsuit
+    - red_one-piece_swimsuit
+    - white_one-piece_swimsuit
+    - yellow_one-piece_swimsuit
+    - silver_one-piece_swimsuit
+    - gold_one-piece_swimsuit
+Vision/Clothing-L/1P-swimsuit-Print:
+    - two-tone_one-piece_swimsuit
+    - plaid_one-piece_swimsuit
+    - polka_dot_one-piece_swimsuit
+    - floral-print_one-piece_swimsuit
+    - striped_one-piece_swimsuit
+    - vertical-striped_one-piece_swimsuit
+    - camouflage_one-piece_swimsuit  
+Vision/Clothing-L/1P-swimsuit-cutout:
+    - underboob_cutout
+    - navel_cutout
+    - stomach_cutout
+    - back_cutout
+    - cutout_above_navel
+    - cleavage_cutout
+    - crotch_cutout
+    - side_cutout
+    - ass_cutout
+Vision/Clothing-L/1P-swimsuit-material:
+    - spandex
+    - latex
+    - neoprene
+    - sheer
+    - lycra
+    - rubber
+    - shiny
+    - mesh

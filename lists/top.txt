@@ -1,0 +1,89 @@
+{|bear|animal|cat|duck|cow|dog|frog|fox|mouse|rabbit|shark|tiger|wolf}  hood
+bandeau
+blazer
+blouse
+bustier
+camisole
+cape
+capelet
+cardigan
+cardigan around waist
+cardigan vest
+christmas sweater
+coat
+collared shirt
+college shirt
+corset
+criss-cross halter
+crop top
+cross-laced sweater
+dress shirt
+duffel coat
+frilled cape
+frilled shirt
+frilled tube top
+fur cape
+fur coat
+fur-trimmed coat
+gym shirt
+halter shirt
+halterneck
+hawaiian shirt
+hooded cardigan
+hooded jacket
+hooded sweater
+hoodie
+jacket
+Jacket over hoodie
+knit sweater
+lab coat
+letterman jacket
+long coat
+loose shirt
+naked cardigan
+naked coat
+naked hoodie
+Naked labcoat
+naked shirt
+off-shoulder shirt
+off-shoulder sweater
+open cardigan
+open coat
+open hoodie
+open jacket
+open shirt
+open-chest sweater
+overcoat
+oversized shirt
+raglan sleeves
+raincoat
+ribbon-trimmed sweater
+sailor shirt
+scoop neck
+shawl
+shirt
+shrug
+Sleeveless hoodie
+sleeveless shirt
+sleeveless sweater
+sleeveless turtleneck
+sports bra
+suit jacket
+sweater
+sweater dress
+sweater under jacket
+sweater vest
+t-shirt
+tabard
+tailcoat
+tank top
+tied shirt
+tied sweater
+track jacket
+trench coat
+tube top
+turtleneck
+turtleneck sweater
+vest
+virgin killer sweater
+waistcoat

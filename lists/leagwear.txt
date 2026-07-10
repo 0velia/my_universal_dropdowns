@@ -1,0 +1,43 @@
+american flag legwear
+ankle socks
+armored legwear
+bobby socks
+fishnet legwear
+fishnets kneehighs
+fishnets leggings
+fishnets pantyhose
+fishnets socks
+frilled kneehighs
+frilled legwear
+frilled socks
+frilled thighhighs
+kneehighs
+knit legwear
+lace-up legwear
+lace-up thighhighs
+layered legwear
+leggings
+legwear
+loose socks
+loose thighhigh
+lowleg pantyhose
+mismatched legwear
+mismatched_legwear socks
+over-kneehighs
+pantyhose under shorts
+pantyhose
+ribbed legwear
+ribbon-trimmed legwear
+ribbon-trimmed thighhighs
+short socks
+single thighhigh
+socks over pantyhose
+socks
+stirrup legwear
+studded legwear
+tabi
+thighhighs
+toeless legwear
+toeless_legwear kneehighs
+toeless_legwear thighhighs
+tube socks

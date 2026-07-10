@@ -1,0 +1,44 @@
+Vision/Clothing-L/Leggings-Random:
+    - "(__Vision/Clothing-L/Leggings-material__Leggings,__Vision/Clothing-L/Leggings__,__Vision/Clothing-L/Leggings-colors__) "
+    - "(Leggings,__Vision/Clothing-L/Leggings__,__Vision/Clothing-L/Leggings-colors__) "    
+Vision/Clothing-L/Leggings:
+    - Leggings
+    - high-waist_Leggings
+    - Print_Leggings{|, __Vision/Clothing-L/Leggings-Print__}
+    - low-waist_Leggings
+    - lowleg_Leggings
+    - ribbed_Leggings
+Vision/Clothing-L/Leggings-Colors:
+    - Black_Leggings
+    - Blue_Leggings
+    - Brown_Leggings
+    - Green_Leggings
+    - Grey_Leggings
+    - Orange_Leggings
+    - Pink_Leggings
+    - Purple_Leggings
+    - Red_Leggings
+    - White_Leggings
+    - Yellow_Leggings
+    - Multicolored_Leggings
+    - aqua_Leggings
+    - gold_Leggings
+    - see-through_Leggings
+Vision/Clothing-L/Leggings-Print:
+    - two-tone_Leggings
+    - plaid_Leggings
+    - polka_dot_Leggings
+    - floral-print_Leggings
+    - striped_Leggings
+    - vertical-striped_Leggings
+    - camouflage_Leggings
+Vision/Clothing-L/Leggings-material:
+    - spandex_
+    - latex_
+    #- neoprene 
+    #- sheer_
+    - lycra_
+    #- rubber_
+    - shiny_
+    #- mesh_
+    - ribbed_

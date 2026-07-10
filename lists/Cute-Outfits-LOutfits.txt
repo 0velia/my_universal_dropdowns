@@ -1,0 +1,102 @@
+Vision/Clothing-L:
+  Cute-Outfits:
+      - a black cropped_blazer, white fitted_bustier_top, high-waisted black pleated_skirt, black knee-high_boots, matching black belt
+      - a pink frilled_stage-dress, white lace-trimmed_petticoat, white knee-high_boots, matching pink satin_gloves, pearl_embellishments
+      - a blue off-shoulder_blouse, white high-waisted_tennis-skirt, white knee-high_socks, white platform_sneakers, matching blue ribbon_necktie
+      - a red plaid_cropped_blazer, black fitted_top, high-waisted black shorts, black thigh-high_stockings, black lace-up_boots, silver chain_accessories
+      - a purple leather_cropped-jacket, black fitted_leotard, high-waisted black vinyl_pants, black thigh-high_heels, silver chain_belt
+      - a white cropped_bolero-jacket, blue fitted_bustier_top, high-waisted white pleated_skirt, white thigh-high_socks, blue platform_shoes, matching blue ribbon_choker
+      - a black asymmetrical_military-jacket, red fitted_crop-top, high-waisted black leather-shorts, fishnet_tights, black knee-high_platform-boots, matching black studded_gloves
+      - a pink layered_tulle-dress, white lace-trimmed_safety-shorts, white thigh-high_stockings, pink ribbon_heels, matching pink pearl_necklace
+      - a navy double-breasted_blazer, white collared_cropped_top, high-waisted navy plaid_skirt, black knee-high_socks, brown loafers, matching navy beret
+      - a black cropped_harness-jacket, purple fitted_tank-top, high-waisted black pleated_skirt, black ripped_tights, black lace-up_boots, matching purple fingerless_gloves
+      - a red plaid_cropped_jacket, black fitted_corset_top, high-waisted black leather_shorts, black thigh-high_socks, red platform_boots, matching black choker
+      - a white off-shoulder_blouse, pink high-waisted_ruffled_skirt, white knee-high_stockings, pink ribbon_heels, matching pink lace_gloves
+      - a black sleeveless_cropped_blazer, white fitted_leotard, high-waisted black pleated_skirt, black lace_tights, black platform_boots, matching black ribbon_tie
+      - a blue satin_halter_top, white high-waisted_shorts, white knee-high_socks, blue platform_sneakers, matching blue pearl_bracelet
+      - a purple leather_cropped_jacket, black strappy_bustier_top, high-waisted black plaid_skirt, black ripped_stockings, black lace-up_boots, matching silver chain_belt
+      - a black cropped_biker-jacket, white fitted_t-shirt, high-waisted black pleated_skirt, black thigh-high_socks, black combat_boots, silver chain_belt
+      - a purple off-shoulder_blouse, white high-waisted_tulle_skirt, black thigh-high_socks, purple ribbon_boots, matching purple choker
+      - a black long-sleeve_cropped_top, red high-waisted_skirt, black fishnet_tights, black ankle_boots, red plaid_shirt tied around waist
+      - a pink satin_cropped_jacket, white lace-trimmed_leotard, high-waisted pink pleated_skirt, white thigh-high_stockings, pink platform_heels
+      - a blue denim_cropped_jacket, white fitted_top, high-waisted blue ripped_shorts, black thigh-high_socks, black combat_boots, matching black belt
+      - a black asymmetrical_cropped_jacket, white fitted_tank_top, high-waisted black pleated_skirt, black fishnet_tights, black platform_boots, silver chain_belt
+      - a red off-shoulder_blouse, white high-waisted_ruffled_skirt, black thigh-high_socks, red ribbon_heels, matching red lace_gloves
+      - a purple leather_cropped_jacket, black fitted_leotard, high-waisted black vinyl_skirt, black thigh-high_boots, silver chain_belt
+      - a pink satin_cropped_top, white high-waisted_pleated_skirt, white knee-high_socks, pink platform_heels, matching pink lace_gloves
+      - a black long-sleeve_cropped_top, red plaid_tartan_skirt, black fishnet_tights, black ankle_boots, matching black belt
+      - a white off-shoulder_sweater, blue high-waisted_denim_skirt, white thigh-high_socks, white sneakers, matching white pearl_bracelet
+      - a black lace-cropped_turtleneck, high-waisted black leather_shorts, black thigh-high_boots, matching black leather_belt, silver chains
+      - a purple satin_off-shoulder_bustier, high-waisted black leather_skirt, black thigh-high_stockings, purple ribbon_tie_boots
+      - a blue denim_cropped_jacket, white fitted_t-shirt, high-waisted black shorts, black knee-high_socks, black combat_boots, matching black belt
+      - a pink ruffled_stage-dress, white lace-trimmed_safety-shorts, pink platform_boots, white thigh-high_socks, matching pink pearl_bracelet
+      - a black cropped_motorcycle_jacket, white fitted_t-shirt, high-waisted black leather_skirt, black lace-up_boots, silver chain_accessories
+      - a red plaid_cropped_blazer, black fitted_bustier_top, high-waisted black pleated_skirt, black thigh-high_socks, red platform_boots
+      - a blue velvet_off-shoulder_bustier, high-waisted black leather_shorts, black thigh-high_socks, blue ribbon_boots, silver choker
+      - a white cropped_puffy_sleeve_blouse, high-waisted white denim_skirt, white knee-high_socks, white platform_sneakers, matching pearl_necklace
+      - a black cropped_hoodie, red plaid_skirt, black fishnet_stockings, black combat_boots, matching red plaid_shirt_tied around waist
+      - a purple satin_cropped_bomber-jacket, white fitted_leotard, high-waisted purple pleated_skirt, black thigh-high_boots, matching purple beret
+      - a black leather_cropped_blazer, red lace-trimmed_bustier, high-waisted black vinyl_pants, black thigh-high_heels, silver chain_belt
+      - a pink off-shoulder_knit_top, white high-waisted_flared_skirt, white thigh-high_socks, pink platform_heels, matching pink bow_headband
+      - a green cropped_bomber-jacket, white fitted_top, high-waisted green cargo_pants, green platform_sneakers, matching green accessories
+      - a navy double-breasted_blazer, white collared_cropped_top, high-waisted navy plaid_skirt, black knee-high_socks, brown loafers
+      - a black cropped_motorcycle_jacket, white fitted_t-shirt, high-waisted black leather_skirt, black lace-up_boots, silver chain_accessories
+      - a red plaid_cropped_blazer, black fitted_bustier_top, high-waisted black pleated_skirt, black thigh-high_socks, red platform_boots
+      - a blue velvet_off-shoulder_bustier, high-waisted black leather_shorts, black thigh-high_socks, blue ribbon_boots, silver choker
+      - a white cropped_puffy_sleeve_blouse, high-waisted white denim_skirt, white knee-high_socks, white platform_sneakers, matching pearl_necklace
+      - a black cropped_hoodie, red plaid_skirt, black fishnet_stockings, black combat_boots, matching red plaid_shirt_tied around waist
+      - a purple satin_cropped_bomber-jacket, white fitted_leotard, high-waisted purple pleated_skirt, black thigh-high_boots, matching purple beret
+      - a black leather_cropped_blazer, red lace-trimmed_bustier, high-waisted black vinyl_pants, black thigh-high_heels, silver chain_belt
+      - a pink off-shoulder_knit_top, white high-waisted_flared_skirt, white thigh-high_socks, pink platform_heels, matching pink bow_headband
+      - a green cropped_bomber-jacket, white fitted_top, high-waisted green cargo_pants, green platform_sneakers, matching green accessories
+      - a navy double-breasted_blazer, white collared_cropped_top, high-waisted navy plaid_skirt, black knee-high_socks, brown loafers
+      - a black asymmetrical_cropped_top, white fitted_leotard, high-waisted black leather_skirt, black thigh-high_boots, silver chain_belt
+      - a white lace-cropped_blouse, red plaid_skirt, black knee-high_socks, red platform_boots, matching black ribbon_headband
+      - a black oversized_cropped_jacket, white fitted_t-shirt, high-waisted black denim_skirt, black thigh-high_socks, black ankle_boots
+      - a pink satin_bustier, high-waisted black pleated_skirt, pink thigh-high_socks, pink platform_heels, matching pink choker
+      - a purple cropped_cape, white fitted_bustier_top, high-waisted purple velvet_skirt, black thigh-high_boots, silver chain_belt
+      - a red velvet_cropped_jacket, black fitted_leotard, high-waisted black leather_shorts, black lace-up_boots, matching silver bracelet
+      - a green cropped_bomber-jacket, white fitted_t-shirt, high-waisted green plaid_skirt, white thigh-high_socks, green platform_boots
+      - a black satin_cropped_top, high-waisted black leather_skirt, black thigh-high_socks, black combat_boots, silver chain_belt
+      - a yellow off-shoulder_bustier, white high-waisted_ruffled_skirt, yellow ribbon_heels, matching yellow pearl_bracelet
+      - a black sleeveless_cropped_hoodie, high-waisted black denim_pants, black knee-high_socks, black combat_boots, matching black belt
+      - a white button-up_blouse, black high-waisted_skirt, black thigh-high_socks, black platform_boots, matching silver choker
+      - a red fitted_t-shirt, black high-waisted_pleated_skirt, white knee-high_socks, red platform_boots, matching red ribbon_headband
+      - a black oversized_t-shirt, high-waisted black denim_skirt, black thigh-high_socks, black ankle_boots, matching silver bracelet
+      - a pink off-shoulder_blouse, high-waisted white plaid_skirt, pink ribbon_heels, matching pink pearl_necklace
+      - a white fitted_leotard, black high-waisted leather_skirt, black thigh-high_boots, black lace-up_boots, silver chain_belt
+      - a navy blue blazer, white collared_cropped_top, high-waisted navy plaid_skirt, black knee-high_socks, brown loafers
+      - a green oversized_hoodie, black high-waisted_leggings, black combat_boots, matching green beret
+      - a purple satin_tank_top, black high-waisted pleated_skirt, black thigh-high_stockings, purple ribbon_boots
+      - a blue denim_jacket, white fitted_t-shirt, black high-waisted ripped_skirt, white thigh-high_socks, white sneakers
+      - a black long-sleeve_leotard, red pleated_skirt, black thigh-high_boots, silver chain_belt, matching red ribbon_headband
+      - a black high-neck_leotard, white high-waisted_pleated_skirt, black thigh-high_socks, black platform_boots, silver chain_belt
+      - a white button-up_shirt, black high-waisted_leather_skirt, black thigh-high_boots, black lace-up_boots, matching black belt
+      - a pink satin_ruffled_blouse, high-waisted white plaid_skirt, pink thigh-high_socks, pink platform_boots
+      - a green cropped_bomber-jacket, white fitted_t-shirt, black high-waisted pants, green platform_sneakers, matching green beret
+      - a purple satin_bustier_top, high-waisted black leather_skirt, purple thigh-high_boots, silver chain_belt
+      - a red plaid_cropped_jacket, black fitted_turtleneck_body, high-waisted black denim_skirt, black fishnet_tights, red platform_boots
+      - a yellow oversized_t-shirt, high-waisted black pleated_skirt, yellow ribbon_heels, matching yellow bow_headband
+      - a blue velvet_cropped_bomber-jacket, white fitted_leotard, high-waisted blue denim_skirt, white thigh-high_socks, blue platform_boots
+      - a black lace-cropped_blouse, high-waisted black leather_shorts, black thigh-high_boots, silver chains
+      - a pink off-shoulder_top, high-waisted black vinyl_skirt, pink thigh-high_socks, matching pink lace_gloves
+      - a black high-neck_leotard, high-waisted black vinyl_skirt, black thigh-high_boots, silver chain_belt, black leather_jacket
+      - a white button-up_shirt, high-waisted black leather_shorts, black lace-up_boots, silver choker, black thigh-high_socks
+      - a red satin_bustier, high-waisted black pleated_skirt, black combat_boots, red platform_sneakers, silver chain_belt
+      - a navy cropped_sweater, high-waisted white denim_skirt, navy thigh-high_socks, navy platform_boots
+      - a yellow oversized_t-shirt, black high-waisted jeans, yellow platform_sneakers, black beret
+      - a pink off-shoulder_bustier, white high-waisted pleated_skirt, pink platform_boots, matching pink pearl_necklace
+      - a black cropped_cape, white fitted_leotard, high-waisted black leather_skirt, black combat_boots, silver chain_belt
+      - a green satin_tank_top, high-waisted black denim_skirt, black knee-high_socks, green ribbon_boots
+      - a purple long-sleeve_leotard, black high-waisted leather_shorts, purple lace-up_boots, matching purple beret
+      - a black high-neck_leotard, high-waisted red pleated_skirt, black thigh-high_socks, black combat_boots, silver chain_belt
+      - a white cropped_t-shirt, high-waisted plaid_skirt, white knee-high_socks, black platform_boots, matching silver necklace
+      - a green off-shoulder_bustier, high-waisted black leather_skirt, green thigh-high_boots, matching green beret
+      - a red satin_ruffled_blouse, high-waisted black vinyl_skirt, black lace-up_boots, red ribbon_heels
+      - a black oversized_t-shirt, high-waisted ripped_jeans, black knee-high_socks, black combat_boots, matching silver bracelet
+      - a white lace-cropped_blouse, high-waisted blue denim_skirt, white thigh-high_socks, white platform_boots
+      - a yellow cropped_hoodie, high-waisted black leather_shorts, yellow thigh-high_boots, matching yellow headband
+      - a black velvet_bustier_top, high-waisted red pleated_skirt, black lace-up_boots, silver chain_belt
+      - a pink satin_off-shoulder_blouse, high-waisted white plaid_skirt, pink platform_boots, matching pink pearl_bracelet
+      - a purple satin_cropped_jacket, white fitted_leotard, high-waisted black denim_skirt, purple platform_boots
+      - a navy cropped_bomber-jacket, white fitted_t-shirt, high-waisted black vinyl_skirt, white thigh-high_socks, navy ribbon_boots

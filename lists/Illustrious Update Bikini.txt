@@ -1,0 +1,60 @@
+Vision/Clothing-L/Bikini-Random:
+    - "{__Vision/Clothing-L/Bikini-material__|} __Vision/Clothing-L/Bikini__,__Vision/Clothing-L/Bikini-Colors__ {|, __Vision/Clothing-L/Bikini-Print__|} "
+Vision/Clothing-L/Bikini:
+    - Bikini,(Eyepatch_bikini:1.1)
+    - Bikini,(Front-tie bikini_top:1.1)
+    - Bikini,(Frilled_bikini:1.1)
+    - Bikini,(Lace-trimmed_bikini:1.1)
+    - Bikini,(Leaf_bikini:1.1)
+    - Bikini,(Maid_bikini:1.1)
+    - Bikini,(Micro_bikini:1.1)
+    - Bikini,(O-ring_bikini:1.1)
+    - Bikini,(O-ring_bottom:1.1)
+    - Bikini,(O-ring_top:1.1)
+    - Bikini,(Sailor_bikini:1.1)
+    - Bikini,(Shell_bikini:1.1)
+    - Bikini,(Side-tie_bikini_bottom:1.1)
+    - Bikini,(Sling_bikini_top:1.1)
+    - Bikini,(Strapless_bikini:1.1)
+    - Bikini,(Off-shoulder_bikini:1.1)
+    - Bikini,(String_bikini:1.1)
+    - Bikini,(Multi-strapped_bikini_top:1.1)
+    - Bikini,(Multi-strapped_bikini_bottom:1.1)
+    - Bikini,(Thong_bikini:1.1)
+    - Bikini,(Layered_bikini:1.1)
+    - Bikini,(Highleg_bikini:1.1)
+    - Bikini,(Lowleg_bikini:1.1)
+Vision/Clothing-L/Bikini-Colors:
+    - Multicolored_bikini
+    - Aqua_bikini
+    - Black_bikini
+    - Blue_bikini
+    - Brown_bikini
+    - Gold_bikini
+    - Green_bikini
+    - Grey_bikini
+    - Orange_bikini
+    - Pink_bikini
+    - Purple_bikini
+    - Red_bikini
+    - Silver_bikini
+    - White_bikini
+    - Yellow_bikini
+    - Argyle_bikini
+Vision/Clothing-L/Bikini-Print:    
+    - Checkered_bikini
+    - Plaid_bikini
+    - Polka_dot_bikini
+    - floral-print_bikini
+    - Striped_bikini
+    - Vertical-striped_bikini
+    - Cow_print_bikini
+Vision/Clothing-L/Bikini-material:
+    - spandex_
+    - latex_
+    - neoprene_
+    - sheer_
+    - lycra_
+    - rubber_
+    - shiny_
+    - mesh_

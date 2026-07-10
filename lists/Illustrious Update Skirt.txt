@@ -1,0 +1,65 @@
+Vision/Clothing-L/Skirt-Random:
+    - "(__Vision/Clothing-L/Skirt-material__Skirt,__Vision/Clothing-L/Skirt__,__Vision/Clothing-L/Skirt-colors__) "
+    - "(Skirt,__Vision/Clothing-L/Skirt__,__Vision/Clothing-L/Skirt-colors__) "    
+Vision/Clothing-L/Skirt:
+    - bubble_skirt
+    - bikini_skirt
+    - bow_skirt
+    - frilled_skirt
+    - hakama_skirt
+    - hakama_short_skirt
+    - half-skirt
+    - high-low_skirt
+    - hoop_skirt
+    - kimono_skirt
+    - layered_skirt
+    - overskirt
+    - plaid_skirt
+    - pleated_skirt
+    - pencil_skirt
+    - showgirl_skirt
+    - side-tie_skirt
+    - cross-laced_skirt
+    - suspender_skirt
+    - lowleg_skirt
+    - high-waist_skirt
+Vision/Clothing-L/Skirt-Colors:
+    - Black_Skirt
+    - Blue_Skirt
+    - Brown_Skirt
+    - Green_Skirt
+    - Grey_Skirt
+    - Orange_Skirt
+    - Pink_Skirt
+    - Purple_Skirt
+    - Red_Skirt
+    - White_Skirt
+    - Yellow_Skirt
+    - Multicolored_Skirt
+    - aqua_Skirt
+    - gold_Skirt
+    - see-through_Skirt
+Vision/Clothing-L/Skirt-Print:
+    - two-tone_Skirt
+    - plaid_Skirt
+    - polka_dot_Skirt
+    - floral-print_Skirt
+    - striped_Skirt
+    - vertical-striped_Skirt
+    - camouflage_Skirt
+Vision/Clothing-L/Skirt-material:
+    - spandex_
+    - latex_
+    - lycra_
+    - shiny_
+    - ribbed_
+    - leather_
+    - denim_
+    #- mesh_
+    #- rubber_
+    #- sheer_
+Vision/Clothing-L/Skirt-length:
+    - microskirt
+    - miniskirt
+    - medium_skirt
+    - long_skirt

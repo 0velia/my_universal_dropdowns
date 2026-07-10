@@ -1,0 +1,96 @@
+Vision/Clothing-L/Dress-Random:
+    - "(__Vision/Clothing-L/Dress-material__,__Vision/Clothing-L/Dress__,__Vision/Clothing-L/Dress-colors__) "
+    - "(__Vision/Clothing-L/Dress-material__,__Vision/Clothing-L/Dress__,{__Vision/Clothing-L/Dress-length__|},{__Vision/Clothing-L/Dress-Print__|},__Vision/Clothing-L/Dress-colors__) "    
+Vision/Clothing-L/Dress:
+    - armored_Dress
+    - backless_Dress
+    - crinoline
+    - collared_Dress
+    - frilled_Dress
+    - fur-trimmed_Dress
+    - glitter_Dress
+    - half-dress
+    - halter_Dress
+    - highleg_Dress
+    - high-low Dress
+    - hobble_Dress
+    - impossible_Dress
+    - lace-trimmed_Dress
+    - latex_Dress
+    - layered_Dress
+    - off-shoulder_Dress
+    - pleated_Dress
+    - plunging neckline
+    - ribbed_Dress
+    - ribbon-trimmed_Dress
+    - side slit_Dress
+    - taut_Dress
+    - see-through_Dress
+    - sleeveless_Dress
+    - strapless_Dress
+    - cake_Dress
+    - china_Dress
+    - coat_Dress
+    - cocktail_Dress
+    - denim_Dress
+    - dirndl
+    - evening gown
+    - flowing_Dress
+    - funeral_Dress
+    - gown
+    - mermaid_Dress
+    - negligee
+    - nightgown
+    - pencil_Dress
+    - pinafore_Dress
+    - sailor_Dress
+    - santa_Dress
+    - sundress
+    - sweater_Dress
+    - tennis_Dress
+    - tent_Dress
+    - trapeze_Dress
+    - tube_Dress
+    - ao dai
+    - wedding_Dress
+Vision/Clothing-L/Dress-Colors:
+    - Black_Dress
+    - Blue_Dress
+    - Brown_Dress
+    - Green_Dress
+    - Grey_Dress
+    - Orange_Dress
+    - Pink_Dress
+    - Purple_Dress
+    - Red_Dress
+    - White_Dress
+    - Yellow_Dress
+    - Multicolored_Dress
+    - aqua_Dress
+    - gold_Dress
+    - see-through_Dress
+Vision/Clothing-L/Dress-Print:
+    - two-tone_Dress
+    - plaid_Dress
+    - polka_dot_Dress
+    - floral-print_Dress
+    - striped_Dress
+    - vertical-striped_Dress
+    - camouflage_Dress
+Vision/Clothing-L/Dress-material:
+    - spandex_Dress
+    - latex_Dress
+    - lycra_Dress
+    - shiny_Dress
+    - ribbed_Dress
+    - leather_Dress
+    - denim_Dress
+    - mesh_Dress
+    - rubber_Dress
+    - sheer_Dress
+    - Dress
+Vision/Clothing-L/Dress-length:
+    - microDress
+    - miniDress
+    - medium_Dress
+    - long_Dress
