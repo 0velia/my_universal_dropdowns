@@ -37,16 +37,22 @@ ComfyUI-Dynamic-Dropdowns/
 
 ## ⚙️ Installation Guide
 
-> ⚠️ **IMPORTANT REQUIRED STEP FIRST:** This repository does not contain a pre-configured node layout out of the box because it adapts to *your* personal files. You **MUST** run the companion app to generate your custom node code (`__init__.py`) before launching ComfyUI, or the node will not appear in your canvas.
-
-### Standard User Installation
-1. Download this repository or clone it directly into your ComfyUI nodes directory:
-```bash
+### Standard User Quick Start
+1. Clone this repository directly into your ComfyUI nodes directory:
+   ```bash
    git clone [https://github.com/0velia/ComfyUI-Dynamic-Dropdowns.git](https://github.com/0velia/ComfyUI-Dynamic-Dropdowns.git)
-```
-2. Navigate inside the `ComfyUI-Dynamic-Dropdowns` directory and create an empty folder named `lists`.
-3. Drop your text-attribute files (e.g., `outfits.txt`, `hairstyles.txt`) inside that `lists/` folder. Ensure text files feature exactly **one choice per line**, with no blank trailing lines.
-4. Launch or restart ComfyUI.
+    ```
+
+Launch or restart ComfyUI. A 🎭 Dynamic Dropdowns (Demo Mode) node will immediately be available on your canvas to show you how the pipeline routes text choices.
+
+🛠️ Customizing and Building Your Own Nodes
+Once you see how the demo works, you can build your own fully customized menu layouts:
+
+Open the repository folder and double-click Node Builder Assistant.exe.
+
+Design your custom dropdown panels and match them to your own text files inside the lists/ folder.
+
+Click Build Custom Node, download the new code, and save it as __init__.py to overwrite the demo placeholder!
 
 ---
 
