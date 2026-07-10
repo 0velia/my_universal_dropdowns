@@ -17,6 +17,7 @@ A self-contained, high-efficiency custom node system and Windows desktop compani
 
 When properly deployed, your project folder maintains this modular layout:
 
+```text
 ComfyUI-Dynamic-Dropdowns/
 ├── Node Builder Assistant.exe   # Standalone node generator app
 ├── __init__.py                  # The active ComfyUI custom node script
