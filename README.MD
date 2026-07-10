@@ -37,6 +37,8 @@ ComfyUI-Dynamic-Dropdowns/
 
 ## ⚙️ Installation Guide
 
+> ⚠️ **IMPORTANT REQUIRED STEP FIRST:** This repository does not contain a pre-configured node layout out of the box because it adapts to *your* personal files. You **MUST** run the companion app to generate your custom node code (`__init__.py`) before launching ComfyUI, or the node will not appear in your canvas.
+
 ### Standard User Installation
 1. Download this repository or clone it directly into your ComfyUI nodes directory:
 ```bash
